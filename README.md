@@ -10,7 +10,6 @@ A full-stack stock trading platform built using React (Frontend), Spring Boot (B
 - Portfolio Tracking with Profit/Loss
 - Transaction History
 - RESTful APIs with Swagger Documentation
-- Cloud Deployment Ready
 
 ## Tech Stack
 Frontend: React + Tailwind CSS
